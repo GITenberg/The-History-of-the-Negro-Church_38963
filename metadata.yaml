@@ -1,0 +1,37 @@
+_repo: The-History-of-the-Negro-Church_38963
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38963-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Woodson, Carter Godwin
+    aliases:
+    - Woodson, C. G. (Carter Godwin)
+    - Woodson, Carter G.
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '3835'
+    url: http://www.gutenberg.org/2009/agents/3835
+    wikipedia: http://en.wikipedia.org/wiki/Carter_G._Woodson
+description: ''
+gutenberg_issued: '2012-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38963'
+  lccn: '22000935'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Religion'
+- !lcc 'BR'
+tableOfContents: Early missionaries and the Negro -- The dawn of the new day -- Pioneer
+  Negro preachers -- The independent church movement -- Early development -- The schism
+  and the subsequent situation -- Religious instruction revived -- Preachers of versatile
+  genius -- The Civil War and the church -- Religious education as a preparation --
+  The call of politics -- The conservative and progressive -- The Negro church socialized
+  -- The recent growth of the Negro church -- The Negro of to-day.
+title: The History of the Negro Church
+url: http://www.gutenberg.org/ebooks/38963
